@@ -38,6 +38,11 @@ div {
    padding: 10px;
 }
 
+#missionTarget>ol {
+   list-style-type: none;
+
+}
+
 button {
    background-color: #419f6a;
    border: none;
